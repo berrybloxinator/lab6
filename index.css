@@ -1,0 +1,7 @@
+#carouselExampleSlidesOnly {
+     height: 400px;
+ }
+
+img {
+    object-fit: cover;
+}
